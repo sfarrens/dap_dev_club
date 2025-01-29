@@ -1,0 +1,7 @@
+name: my_docker_kernel
+channels:
+  - conda-forge
+dependencies:
+  - ipykernel 
+  - jupyter
+  - numpy
